@@ -1,3 +1,5 @@
+<img src="https://www.dropbox.com/s/6sh60qbrdsio7xg/iLetters%20System.png?dl=0">
+
 ### Welcome To The iLetters Project.
 
 A project created to improve the way schools currently communicate with the parents of the learners which is through paper
