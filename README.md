@@ -1,4 +1,9 @@
-![iLetters System Overview](iLetters-System.png)
+<figure>
+  <img
+  src="iLetters-System.png"
+  alt="iLetters System Overview">
+  <figcaption>iLetters System Overview</figcaption>
+</figure>
 
 ### Welcome To The iLetters Project.
 
